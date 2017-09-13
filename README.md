@@ -1,4 +1,4 @@
-# my-first-project
+# Jeremy's-first-project
 my first github project
 
 
